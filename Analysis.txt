@@ -1,0 +1,11 @@
+When the distance is set to 60 away from the ghosts,
+ the pac man character is too sensitive to where the ghosts are and ends up becoming trapped. 
+When its lower for example 10 and 20 the main player ends up waiting too close and ends up easily trapped
+whereas when its at 40 the player is able react better and wont get trapped as easily. 
+In my various tests it was able to hit 1220 whereas for some of the other numbers barly made it over 200
+
+In the full chase mode one the power code part isnt working properly,
+so its torn between chasing the ghosts that will kill you and slowly moving toward the power pill.
+
+I was able to get the logging to work but im unsure as to how comparing 
+it would help because its moving randomly at some points every time 
